@@ -54,10 +54,6 @@ So in this project, I have shown this setup with smaller range.
 
 ![gitmergeurl](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/giturlmerge.png)
 
-### Now give the trigger as POLL SCM so that it call continuously monitor repository and download the code when updated.
-
-![mergetrigger](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/mergetrigger.png)
-
 ### Now Build Post Build Action.
 ### Branch to push : to which branch you want to merge.
 ### Target Remote name : is the name of remote repository.
