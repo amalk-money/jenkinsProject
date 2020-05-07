@@ -39,7 +39,7 @@ So in this project, I have shown this setup with smaller range.
 
 ### For deploying the testing system, we are using docker technology and used ` http image ` to create the environment. And to access the production page, locally access it with ` host-ip:8087 ` location.
 
-![prodpage]( https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/testpage.png)
+![prodpage]( https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/test2.png)
 
 
 ## Job for Quality Assurance system
@@ -60,4 +60,4 @@ So in this project, I have shown this setup with smaller range.
 ![publisher](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/gitpublisher.png)
 
 ### Finally production page will look like the test page after merging.
-![mergeprod](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/mergeprod.png)
+![mergeprod](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/prod2.png)
